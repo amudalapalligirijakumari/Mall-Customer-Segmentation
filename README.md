@@ -1,12 +1,12 @@
 INTERNID:CITS946
 
-FULL NAME: Amudalapalli GirijaKumari
+FULL NAME: Amudalapalli Girija Kumari
 
 NO OF WEEKS: 6
 
 PROJECT NAME:'MALL CUSTOMER SEGMENTATION'
 
-## Project Scope
+## Project Scope:
 
 This project aims to segment mall customers into meaningful groups using Machine Learning techniques. By analyzing customer information such as annual income and spending score, the project identifies customers with similar purchasing behavior.
 
